@@ -19,6 +19,6 @@ Here are some examples of my work:
 
 ## Contact
 
-If you're interested in working with me or have any questions, feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com). You can also find me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) and [Twitter](https://twitter.com/your-twitter-handle).
+If you're interested in working with me or have any questions, feel free to reach out to me at [nouhbenzina@gmail.com](mailto:nouhbenzina@gmail.com). You can also find me on [Facebook](https://www.facebook.com/nouh.benzina.39) and [instagram](https://www.instagram.com/noahbenzina/).
 
 Thanks for stopping by!
