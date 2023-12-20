@@ -1,6 +1,6 @@
 # Hi there, I'm Noah 👋
 
-I'm a full-stack web developer with experience in React, Next.js, Express, Django, and Python. I specialize in creating responsive and scalable web applications that meet the needs of clients and users.
+I'm a full-stack web developer with experience in React, Next.js, Express, Python. I specialize in creating responsive and scalable web applications that meet the needs of clients and users.
 
 ## Skills
 
